@@ -8,7 +8,7 @@ It includes adding/removing items, calculating totals, and applying discounts.
 
 ## How to Run
 1. Clone the repo:
-git clone https://github.com/anu123538/my-project-jest.git
+git clone https://github.com/anu123538/Testing-e-commerce-cart-using-jest.git
 
 
 2. Navigate to project folder:
