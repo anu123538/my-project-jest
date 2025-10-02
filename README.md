@@ -8,7 +8,7 @@ It includes adding/removing items, calculating totals, and applying discounts.
 
 ## How to Run
 1. Clone the repo:
-git clone https://github.com/YOUR_USERNAME/my-project.git
+git clone https://github.com/anu123538/my-project-jest/my-project.git
 
 
 2. Navigate to project folder:
